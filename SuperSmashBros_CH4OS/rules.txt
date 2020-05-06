@@ -1,0 +1,9 @@
+[Definition]
+titleids = 0005000010144F00
+name = CH4OS: Forever Unbalanced (The Official Sequel)
+path = Super Smash Bros. for Wii U/Modpacks/CH4OS: Forever Unbalanced (The Official Sequel)
+description = The Official CH4OS Sequel is here!
+version = 4
+image = https://files.gamebanana.com/img/ss/gamefiles/5be6134a039c6.jpg
+url = https://gamebanana.com/gamefiles/6328
+fspriority = 100
